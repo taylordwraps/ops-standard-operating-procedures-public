@@ -121,3 +121,5 @@ shared. Once the shop has a seat: the private room opens from the shop's own acc
 |---|---|---|
 | 2026-10-31 | Drafted for the shop from the universal SOP-IT-002: read with no account, PDFs through Kenney, helpers without credentials, the reading room kept as a later door | Alfred (FortunaTradesARB session) |
 | 2026-11-01 | Moved into `taylordwraps/ops-standard-operating-procedures`. The reading room is kept ready in the shop's own organisation: the route in Mermaid, the address table, the shop's seat as an owner (no single point of failure), a helper's read-only key, the steward's commands | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

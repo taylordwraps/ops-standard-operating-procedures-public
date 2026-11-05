@@ -82,3 +82,5 @@ playing a cabinet make no request to any server other than the website's own fil
 | 2026-10-31 | Drafted for the shop from the universal SOP-IT-003: what stays in the browser, the proposal sheet on the shop's computer, the lab's rule | Alfred (FortunaTradesARB session) |
 | 2026-10-31 | The "You should know" reader noted for the lab (from Christopher's screenshot of its heads-up, via the universal SOP-IT-003) | Alfred (FortunaTradesARB session, review) |
 | 2026-11-01 | Moved into `taylordwraps/ops-standard-operating-procedures`. Lucid pass: icons, what stays in the browser drawn in Mermaid | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

@@ -140,3 +140,5 @@ change; `pending-tasks.md` has the request and its tick.
 |---|---|---|
 | 2026-10-31 | Drafted for the shop from the universal SOP-OPS-001: the road through Kenney, asking for a change, what the shop never needs to do, "preview" in the names | Alfred (FortunaTradesARB session) |
 | 2026-11-01 | Moved into the shop's own procedures repository (`taylordwraps/ops-standard-operating-procedures`). Lucid pass: an icon on every section, the road drawn in Mermaid; the shop's GitHub home named, and waiting; the PDF-reading tripwire on the lanes | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

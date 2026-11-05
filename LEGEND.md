@@ -81,3 +81,5 @@ twins (their sync never force-pushes, so the strict one fits).
 
 No repositories existed on 2026-11-01 (free plan, base permission `none`, two-factor sign-in required). Planned:
 `.github` (public), `ops-standard-operating-procedures` and `-public`, `proposals`, `reading-room` and `reading-room-public`.
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

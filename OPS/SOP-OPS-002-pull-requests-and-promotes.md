@@ -109,3 +109,5 @@ it; a merged pull request, when there was one, shows a merge commit with two par
 |---|---|---|
 | 2026-10-31 | Drafted for the shop from the universal SOP-OPS-002: `main` as the working branch, pull requests when a change needs a second look, the Promote road kept for later, this repository's protection read from the API | Alfred (FortunaTradesARB session) |
 | 2026-11-01 | Moved into `taylordwraps/ops-standard-operating-procedures`. Lucid pass: icons, the acceptance road in Mermaid; the shop's own repositories added (merge commits only, helpers never merge); merge settings re-read for the workshop and both twins | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

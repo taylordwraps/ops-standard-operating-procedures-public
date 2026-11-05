@@ -72,3 +72,5 @@ Steps 2 and 3 answer alike; the push lands; the `Sync lanes` run is green; the l
 | 2026-10-31 | Drafted for the shop from the universal SOP-IT-001: what the shop notices (nothing breaks), the lab's one-minute check and fix | Alfred (FortunaTradesARB session) |
 | 2026-11-01 | Moved into `taylordwraps/ops-standard-operating-procedures`. Lucid pass: icons, the one-minute check drawn as a decision in Mermaid | Alfred |
 | 2026-11-01 | Made generic for the public copy: no VPN product named, and the finding gives the resolver's address range rather than the lab's own tunnel; same steps, same fix | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

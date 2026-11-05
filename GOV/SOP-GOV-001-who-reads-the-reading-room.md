@@ -91,3 +91,5 @@ and the team.
 | Date | Change | By |
 |---|---|---|
 | 2026-11-01 | Drafted for the shop from the universal SOP-GOV-001: two owners and one readers team instead of a board and committees; the order of who does what in Mermaid | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->
